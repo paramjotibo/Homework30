@@ -10,4 +10,10 @@ public class FirstTest {
 {
 		System.out.println("home test");
 		}
+	
+	@Test
+	public void goal2()
+	{
+		System.out.println("work to be done");
+	}
 }
